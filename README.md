@@ -7,6 +7,17 @@ Aqui você encontrará todos os projetos em que já trabalhei ou que ainda estã
 
 ### Meus Projetos e Repositórios
 
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
 
 ~~~HTML/CSS
 
