@@ -1,8 +1,9 @@
 ## Seja muito bem-vinda(o)!! 
 
+
 Este é o meu site de repositórios do GitHub.
 
-Aqui você encontrará todos os projetos em que já trabalhei ou que ainda estão em andamento.
+Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento, na minha jornada de aprendizado em linguagens de programação.
 
 
 ### Meus Projetos e Repositórios
@@ -11,7 +12,11 @@ Aqui você encontrará todos os projetos em que já trabalhei ou que ainda estã
 
 #### HTML/CSS
 
-* [Projeto Integrador Curso Programador Web/SENAC](https://github.com/carloscurty/mochilistas.git)
+* Curso Programador Web / SENAC - 2019/2020
+  
+  [Projeto Integrador Curso Programador Web/SENAC](https://github.com/carloscurty/mochilistas.git)
+ 
+  
  
 
 
