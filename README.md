@@ -14,9 +14,11 @@ Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento, n
 
 * Curso Programador Web / SENAC - 2019/2020
   
-  [Projeto Integrador Curso Programador Web/SENAC](https://github.com/carloscurty/mochilistas.git)
+  - [Projeto Integrador - Site Mochilistas](https://github.com/carloscurty/mochilistas.git)
  
-  [Jogo de BINGO](https://github.com/carloscurty/bingo)
+  - [Jogo de BINGO](https://github.com/carloscurty/bingo)
+  
+  - [Bingo - site](https://curtydigital.000webhostapp.com/bingo_75.html)
  
 
 
