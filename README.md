@@ -16,7 +16,7 @@ Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento, n
   
   [Projeto Integrador Curso Programador Web/SENAC](https://github.com/carloscurty/mochilistas.git)
  
-  
+  [Jogo de BINGO](https://github.com/carloscurty/bingo)
  
 
 
