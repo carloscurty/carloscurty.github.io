@@ -1,32 +1,33 @@
-## Seja muito bem-vinda(o)!! 
-
-
-Este é o meu site de repositórios do GitHub.
+## Seja muito bem-vinda(o) ao meu site de repositórios do GitHub.
 
 Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento, na minha jornada de aprendizado em linguagens de programação.
 
 
 ![image](https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png)
 
-### Meus Projetos e Repositórios
 
+>
+>Curso: Programador Web<br> 
+>Instituição: SENAC<br>
+>Período: nov/2019 - fev/2020<br>
+>
+>Tecnologias utilizadas:
+>- HTML5
+>- CCS3
+>- JavaScript
+>
 
-#### Curso Programador Web / SENAC - 2019/2020
+Projeto | Repositório | Imagem
+:-----: | :-----: | :-----:
+BINGO<br>Site de jogo | [Repositório no GitHub](https://github.com/carloscurty/bingo) | [![image](https://user-images.githubusercontent.com/68711113/165095493-0cd495e0-abf4-4238-87d3-17e5a3ca45af.png)](https://curtydigital.000webhostapp.com/bingo_75.html)
+Site MOCHILISTAS<br>(Projeto Integrador) | [Repositório no GitHub](https://github.com/carloscurty/mochilistas) | [![image](https://user-images.githubusercontent.com/68711113/165096216-7b6e6760-e341-4aa4-a18d-931c1c7c795e.png)](https://curtydigital.000webhostapp.com/mochilistas)
+
  
->*1. BINGO (Projeto Integrador)*
->
->[![Image](https://user-images.githubusercontent.com/68711113/165001974-f8e5cf1b-15be-42be-8843-db19f8f29479.png)](https://curtydigital.000webhostapp.com/bingo_75.html)
->
->[Repositório no GitHub](https://github.com/carloscurty/bingo)  
->
 
 
->*2. Site MOCHILISTAS*
-> 
->[![image](https://user-images.githubusercontent.com/68711113/165003214-c0bb6e4b-ebd3-4077-9395-7cc86b62667b.png)](https://curtydigital.000webhostapp.com/mochilistas)
->
->[Repositório no GitHub](https://github.com/carloscurty/mochilistas)
->
- 
+
  ![image](https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png)
 
+~~~
+Copyright 2022 @ Carlos Curty - Todos os direitos reservados
+~~~
