@@ -10,17 +10,19 @@ Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na
 >Curso: Programador Web<br> 
 >Instituição: SENAC<br>
 >Período: nov/2019 - fev/2020<br>
+>Conteúdo:
+>  - HTML5
+>  - CCS3
+>  - JavaScript
+>  - PHP
+>  - Python
 >
->Tecnologias utilizadas:
->- HTML5
->- CCS3
->- JavaScript
->
+<br>
 
-Projeto | Repositório | Imagem
-:-----: | :-----: | :-----:
-BINGO<br>Site de jogo | [Repositório no GitHub](https://github.com/carloscurty/bingo) | [![image](https://user-images.githubusercontent.com/68711113/165095493-0cd495e0-abf4-4238-87d3-17e5a3ca45af.png)](https://curtydigital.000webhostapp.com/bingo_75.html)
-Site MOCHILISTAS<br>(Projeto Integrador) | [Repositório no GitHub](https://github.com/carloscurty/mochilistas) | [![image](https://user-images.githubusercontent.com/68711113/165096216-7b6e6760-e341-4aa4-a18d-931c1c7c795e.png)](https://curtydigital.000webhostapp.com/mochilistas)
+Projeto | Tecnologias | Repositório | Imagem
+:-----: | :-----: | :-----: | :-----:
+BINGO<br>Site de jogo | HTML5<br>CSS3<br>JavaScript | [Repositório no GitHub](https://github.com/carloscurty/bingo) | [![image](https://user-images.githubusercontent.com/68711113/165095493-0cd495e0-abf4-4238-87d3-17e5a3ca45af.png)](https://curtydigital.000webhostapp.com/bingo_75.html)
+Site MOCHILISTAS<br>(Projeto Integrador) | HTML5<br>CSS3<br>JavaScript | [Repositório no GitHub](https://github.com/carloscurty/mochilistas) | [![image](https://user-images.githubusercontent.com/68711113/165096216-7b6e6760-e341-4aa4-a18d-931c1c7c795e.png)](https://curtydigital.000webhostapp.com/mochilistas)
 
  
 
