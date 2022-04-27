@@ -30,6 +30,18 @@ Site MOCHILISTAS<br>(Projeto Integrador) | HTML5<br>CSS3<br>JavaScript | [Reposi
 
  ![image](https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png)
 
+>
+>Curso: Python - Mundo 1<br> 
+>Instituição: Curso em Video<br>
+>Período: abril/2022<br>
+>Conteúdo:
+>  - Fundamentos
+>  - Variáveis
+>  - Operadores aritméticos
+<br>
+
+https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/README.md
+
 ~~~
 Copyright 2022 @ Carlos Curty - Todos os direitos reservados
 ~~~
