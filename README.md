@@ -40,7 +40,7 @@ Site MOCHILISTAS<br>(Projeto Integrador) | HTML5<br>CSS3<br>JavaScript | [Reposi
 >  - Operadores aritméticos
 <br>
 
-https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/README.md
+[Repositório com exercícios e desafios](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/README.md)
 
 ~~~
 Copyright 2022 @ Carlos Curty - Todos os direitos reservados
