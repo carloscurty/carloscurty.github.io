@@ -10,7 +10,7 @@ Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na
 
 >### *Programador Web*<br> 
 >
-><a href="https://www.pi.senac.br/"><img src="https://user-images.githubusercontent.com/68711113/165823039-fd92b495-7394-4f81-9aa2-2c321842b08f.png" alt="SENAC PI" width="200"></a>
+><a href="https://www.pi.senac.br/"><img src="https://user-images.githubusercontent.com/68711113/165825278-a41fc33b-39a9-49d3-bc36-2a40e22baa07.png" alt="SENAC PI" width="200"></a>
 
 <br>
 
