@@ -1,6 +1,7 @@
-## Seja muito bem-vinda(o) à minha GitHub Page
+## Bem-vinda(o)!!
 
 Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.
+
 
 
 ![image](https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png)
