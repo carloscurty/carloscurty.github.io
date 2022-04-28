@@ -22,7 +22,7 @@ Projeto | Descrição | Período | Tecnologias | Links
  ![image](https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png)
 
 >
->## Python - Mundo 1<br> 
+>### Python - Mundo 1<br> 
 >
 >![image](https://user-images.githubusercontent.com/68711113/165805297-0dbdcc4c-1985-450d-a4ee-1856d614545a.png)
 >
@@ -30,7 +30,7 @@ Projeto | Descrição | Período | Tecnologias | Links
 
 Projeto | Descrição | Período | Tecnologias | Links
 :-----: | :-----: | :-----: | :-----: | :----------
-Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | [Readme](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/README.md) |
+Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | [Readme](https://github.com/carloscurty/CursoemVideo-Python-Mundo1) |
 
 <br>
 
