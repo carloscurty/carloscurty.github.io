@@ -1,4 +1,4 @@
-## Bem-vinda(o)!!
+## Bem-vindo!
 
 Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.
 
