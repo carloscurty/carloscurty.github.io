@@ -30,7 +30,7 @@ Projeto | Descrição | Período | Tecnologias | Links
 
 Projeto | Descrição | Período | Tecnologias | Links
 :-----: | :-----: | :-----: | :-----: | :----------
-Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | [Readme](https://carloscurty.github.io/CursoemVideo-Python-Mundo1) |
+Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | [ìndice](https://carloscurty.github.io/CursoemVideo-Python-Mundo1) |
 
 <br>
 
