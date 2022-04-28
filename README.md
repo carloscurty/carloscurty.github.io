@@ -8,7 +8,8 @@ Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na
 
 >
 >Curso: Programador Web<br> 
->Instituição: SENAC<br>
+>
+>![image](https://user-images.githubusercontent.com/68711113/165768866-bc80e89c-13c8-454b-93db-5505ad320163.png)
 >
 <br>
 
@@ -21,13 +22,14 @@ Projeto | Descrição | Período | Tecnologias | Links
 
 >
 >Curso: Python - Mundo 1<br> 
->Instituição: Curso em Video / Gustavo Guanabara<br>
+>
+>[![image](https://user-images.githubusercontent.com/68711113/165764028-9d60f899-2323-439a-bc27-e492e6978bf3.png)](https://www.cursoemvideo.com/)
 >
 <br>
 
 Projeto | Descrição | Período | Tecnologias | Links
 :-----: | :-----: | :-----: | :-----: | :----------
-Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | - [Readme](https://carloscurty.github.io/carloscurty/CursoemVideo-Python-Mundo1/blob/019b0972ef51c00a2ab4baa2a2ac5aae50649597/README.md) |
+Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | - [Readme](https://github.com/carloscurty/CursoemVideo-Python-Mundo1/blob/master/README.md) |
 
 <br>
 
