@@ -1,4 +1,4 @@
-## Bem-vindo!
+# Bem-vindo!
 
 Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.
 
@@ -30,7 +30,7 @@ Projeto | Descrição | Período | Tecnologias | Links
 
 Projeto | Descrição | Período | Tecnologias | Links
 :-----: | :-----: | :-----: | :-----: | :----------
-Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | [Readme](https://github.com/carloscurty/CursoemVideo-Python-Mundo1) |
+Mundo 1 | Tipos primitivos e saída de dados | abr/2022 | Python | [Readme](https://carloscurty.github.io/CursoemVideo-Python-Mundo1) |
 
 <br>
 
