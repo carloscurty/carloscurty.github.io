@@ -1,4 +1,4 @@
-Home
+Carlos Curty
 
 <h2>Bem-vindo!</h2>
 
