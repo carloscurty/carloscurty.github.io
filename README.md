@@ -1,5 +1,3 @@
-Carlos Curty
-
 ## Home
 
 <p>Bem-vindo!<br>
