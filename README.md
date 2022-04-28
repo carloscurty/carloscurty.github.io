@@ -1,8 +1,10 @@
 Carlos Curty
 
-<h2>Bem-vindo!</h2>
+## Home
 
-Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.
+<p>Bem-vindo!<br>
+
+Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.</p>
 
 
 
