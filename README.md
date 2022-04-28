@@ -9,7 +9,6 @@ Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na
 >
 >Curso: Programador Web<br> 
 >Instituição: SENAC<br>
->Período: nov/2019 - fev/2020<br>
 >
 <br>
 
