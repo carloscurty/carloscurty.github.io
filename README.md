@@ -8,7 +8,7 @@ Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na
 
 ## Cursos
 >
->#### Programador Web<br> 
+>### Programador Web<br> 
 >
 >![image](https://user-images.githubusercontent.com/68711113/165768866-bc80e89c-13c8-454b-93db-5505ad320163.png)
 >
@@ -22,7 +22,7 @@ Projeto | Descrição | Período | Tecnologias | Links
  ![image](https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png)
 
 >
->#### Python - Mundo 1<br> 
+>### Python - Mundo 1<br> 
 >
 >![image](https://user-images.githubusercontent.com/68711113/165805297-0dbdcc4c-1985-450d-a4ee-1856d614545a.png)
 >
