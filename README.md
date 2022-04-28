@@ -1,6 +1,6 @@
-# Home
+Home
 
-## Bem-vindo!
+<h2>Bem-vindo!</h2>
 
 Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.
 
