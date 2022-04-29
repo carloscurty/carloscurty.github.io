@@ -1,14 +1,14 @@
 <div background-color="black"><p align="center"><img src="https://user-images.githubusercontent.com/68711113/165942333-fb7993b6-6f8e-46c2-ade8-04d18f664fe1.png" width="500"></p></div>
 
-<p>Seja bem-vindo(a)!
+<h3>Seja bem-vindo(a)!</h3>
 
-Aqui estão os cursos que fiz e os projetos em que já trabalhei na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.</p>
+<p>Aqui estão os cursos que fiz e os projetos em que já trabalhei na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.</p>
 
 
 
-<div background-color="white" height="10" width="100%"><p><br></p></div>
+<div margin="0 auto" background="black" height="10" width="80%"><img src="https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png"></div>
 <!--
-![image](https://user-images.githubusercontent.com/68711113/165002315-c8b84367-987b-482b-b930-8c84d7e8afaa.png)
+![image]()
 -->
 
 ## <strong>CURSOS</strong><br>
