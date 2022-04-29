@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/68711113/165939619-bdc50df0-1ce6-4c17-a87a-e54a4e266666.png" width="200">
+<img src="https://user-images.githubusercontent.com/68711113/165942333-fb7993b6-6f8e-46c2-ade8-04d18f664fe1.png" width="500">
 
-<p>Bem-vindo!<br>
+<p>Seja bem-vindo(a)!<br>
 
-Aqui estão os projetos em que já trabalhei ou que ainda estão em andamento na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.</p>
+Aqui estão os cursos que fiz e os projetos em que já trabalhei na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.</p>
 
 
 
