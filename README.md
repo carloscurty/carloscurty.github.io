@@ -31,7 +31,7 @@ Projeto | Descrição | Período | Tecnologias | Links
 ><a href="https://cursoemvideo.com" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/165805297-0dbdcc4c-1985-450d-a4ee-1856d614545a.png" alt="Curso em Video" width="200"></a>
 <br>
 
-Descrição | Período | Tecnologias | Links |
+Descrição | Período | Tecnologias | Links
 :-----: | :-----: | :-----: | :----------
 Mundo 1 | abr/2022 | Python | [Exercícios](https://carloscurty.github.io/CursoemVideo-Python-Mundo1) |
 <!--
