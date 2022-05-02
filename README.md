@@ -34,6 +34,7 @@ Projeto | Descrição | Período | Tecnologias | Links
 Descrição | Período | Tecnologias | Links
 :-----: | :-----: | :-----: | :----------
 Mundo 1 | abr/2022 | Python | [Exercícios](https://carloscurty.github.io/CursoemVideo-Python-Mundo1) |
+
 <!--
 Mundo 2 | abr/2022 | Python | [Exercícios](https://carloscurty.github.io/CursoemVideo-Python-Mundo2) |
 Mundo 3 | abr/2022 | Python | [Exercícios](https://carloscurty.github.io/CursoemVideo-Python-Mundo3) |
