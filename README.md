@@ -12,7 +12,7 @@
 
 >### *Programador Web*<br>
 >
-><a href="https://www.pi.senac.br/" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/165825278-a41fc33b-39a9-49d3-bc36-2a40e22baa07.png" alt="SENAC PI" width="200"></a>
+><a href="https://www.pi.senac.br/" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/165825278-a41fc33b-39a9-49d3-bc36-2a40e22baa07.png" alt="SENAC PI" width="100"></a>
 
 <br>
 
@@ -27,7 +27,7 @@ Projeto | Descrição | Período | Tecnologias | Links
 
 >### *Python*<br> 
 >
-><a href="https://cursoemvideo.com" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/165805297-0dbdcc4c-1985-450d-a4ee-1856d614545a.png" alt="Curso em Video" width="200"></a>
+><a href="https://cursoemvideo.com" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/165805297-0dbdcc4c-1985-450d-a4ee-1856d614545a.png" alt="Curso em Video" width="100"></a>
 <br>
 
 Descrição | Período | Links
