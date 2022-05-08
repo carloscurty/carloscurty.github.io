@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">Seja bem-vindo(a)!</h2>
 
-<div><p>Sou administrador por formação e um apaixonado por tecnologia e programação. <br>Aqui estão os cursos que fiz, os projetos em que já trabalhei e vários exercícios resolvidos na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.</p></div>
+<div><p align="center">Sou administrador por formação e um apaixonado por tecnologia e programação. Aqui estão os cursos que fiz, os projetos em que já trabalhei e vários exercícios resolvidos na minha jornada de aprendizado em linguagens de programação e tecnologias de Business Intelligence.</p></div>
 
 <br>
 
