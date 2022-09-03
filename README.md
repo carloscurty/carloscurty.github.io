@@ -41,7 +41,7 @@ Mundo 3 | abr/2022 | [Exercícios](https://carloscurty.github.io/CursoemVideo-Py
 
 Projeto | Descrição | Período | Links
 :-----: | :-----: | :-----: | :-----:
-<a href="https://user-images.githubusercontent.com/68711113/188246411-39df40a2-e387-4bab-b73d-e1d60f2761cc.png" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/188246411-39df40a2-e387-4bab-b73d-e1d60f2761cc.png" alt="Eleições 2022 - Perfil dos candidatos por UF" width="250"></a> | Eleições 2022 - Perfil dos candidatos por UF | ago/2022 | [Link](https://carloscurty.github.io/) |
+<a href="https://user-images.githubusercontent.com/68711113/188246411-39df40a2-e387-4bab-b73d-e1d60f2761cc.png" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/188246411-39df40a2-e387-4bab-b73d-e1d60f2761cc.png" alt="Eleições 2022 - Perfil dos candidatos por UF" width="250"></a> | Eleições 2022 - Perfil dos candidatos por UF | ago/2022 | [Link](https://encurtador.com.br/grMNY) |
 
 <br>
 
