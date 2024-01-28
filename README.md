@@ -52,8 +52,12 @@ Projeto | Descrição | Período | Links
 :-----: | :-----: | :-----: | :-----:
 <a href="https://user-images.githubusercontent.com/68711113/188247186-85fd6596-2738-4011-b293-eda6737a1ff9.png" target="_blank"><img src="https://user-images.githubusercontent.com/68711113/188247186-85fd6596-2738-4011-b293-eda6737a1ff9.png" alt="Dashboard Data Studio" width="250"></a> | CARGOS DISPUTADOS POR UNIDADE DA FEDERAÇÃO<br>CANDIDATOS POR PARTIDO | ago/2022 | [Link](https://datastudio.google.com/reporting/bbb63cec-354e-4c0b-b3fd-49641bd7f36b) |
 
+<br>
+
+
 
 <br>
-~~~
-Copyright 2024 @ Carlos Curty - Todos os direitos reservados
-~~~
+
+
+Carlos Curty @ 2024<br>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=carloscurty" target="_blank"><img src="https://github.com/carloscurty/carloscurty.github.io/assets/68711113/300f7037-cfe6-4099-a12f-642c6501e7de" width=50></a>
