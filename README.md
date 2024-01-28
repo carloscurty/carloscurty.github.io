@@ -55,5 +55,5 @@ Projeto | Descrição | Período | Links
 
 <br>
 ~~~
-Copyright 2022 @ Carlos Curty - Todos os direitos reservados
+Copyright 2024 @ Carlos Curty - Todos os direitos reservados
 ~~~
